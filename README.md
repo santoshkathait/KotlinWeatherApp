@@ -1,5 +1,5 @@
 # KotlinWeatherApp
-Kotlin app to fetch weather details and display on list followed by its detail on item click
+Kotlin demo app to fetch weather details and display on list followed by its detail on item click
 
 
 What all it include?
